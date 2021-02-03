@@ -13,5 +13,6 @@ Everything you will need to create a cheap electric guitar to computer interface
 - C++ compiler + text editor or IDE (I used visual studios)
 - [FHT Arduino](http://wiki.openmusiclabs.com/wiki/ArduinoFHT) library
 - [Serial Port](https://github.com/manashmandal/SerialPort) library
-
+## Schematic
+ ![Schematic](https://github.com/jake8796/EGuitarController/blob/main/Schematics/PreAmp(2).jpg)
 
