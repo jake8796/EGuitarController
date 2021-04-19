@@ -4,7 +4,7 @@ Everything you will need to create a cheap electric guitar to computer interface
 - Arduino Mega with USB plug
 - Rail to Rail OPAmp(MCP6002)
 - Resistors(2Mx2,4.7Kx3)(Might be higher values based upon guitar's resistance)
-- Capacitors(10uFx2 & 100uFx1<electrolytic>, 0.1ufx2<ceramic>) 
+- Capacitors(10uF x 2 & 100uF x 1<electrolytic>, 0.1uF x 2<ceramic>) 
 - Solderable Guitar plugs
 - Electric Guitar
 - Laptop
